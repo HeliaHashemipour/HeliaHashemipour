@@ -1,9 +1,7 @@
  <h1 >
-   Hi there
+   Hey there
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
-
-This pretty much sums me up: 
 
 - :telescope: Finishing up my CE bachelor's at Amirkabir University of Technology
 - :zap: I’m currently learning AI and Machine Learning
