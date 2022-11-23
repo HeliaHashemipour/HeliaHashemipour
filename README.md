@@ -5,13 +5,14 @@
 
 This pretty much sums me up: 
 
-- 🫠 Finishing up my CE bachelor's at Amirkabir University of Technology
-- 🤓 I’m currently learning AI
+- :telescope: Finishing up my CE bachelor's at Amirkabir University of Technology
+- :zap: I’m currently learning AI and Machine Learning
+- 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="100"/>
 </div>
 
-- 📫 How to reach me: 
+- :mailbox: How to reach me: 
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/heliahashemipour/">
