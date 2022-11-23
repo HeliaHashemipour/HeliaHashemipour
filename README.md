@@ -14,9 +14,6 @@ This pretty much sums me up:
 - 📫 How to reach me: 
 
 <div id="badges" align="center">
- <a href="https://maedemir.github.io/">
-    <img src="https://img.shields.io/badge/Website-yellow?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/heliahashemipour/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -43,7 +40,9 @@ This pretty much sums me up:
  
  
  ### My Stats 🗿
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maedemir&theme=neon-dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeliaHashemipour&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maedemir&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
 
