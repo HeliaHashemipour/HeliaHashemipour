@@ -9,7 +9,8 @@ This pretty much sums me up:
 - :zap: I’m currently learning AI and Machine Learning
 - 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" width="100"/>
+ 
+  <img src="https://media.giphy.com/media/z4cAv0wUBbXLxw6ySb/giphy.gif" width="100"/>
 </div>
 
 - :mailbox: How to reach me: 
