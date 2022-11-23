@@ -39,7 +39,9 @@ This pretty much sums me up:
  
  
  
- ### My Stats 🗿
+---
+
+### :fire: My Stats :
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HeliaHashemipour&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeliaHashemipour&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
