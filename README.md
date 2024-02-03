@@ -4,7 +4,7 @@
 </h1>
 
 - :telescope: Finishing up my CE bachelor's at Amirkabir University of Technology
-- :zap: I’m currently learning AI and Machine Learning
+- :zap: I’m currently learning AI, Machine Learning, and Quantum Computing
 
 <div id="header" align="center">
  
