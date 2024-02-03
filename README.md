@@ -5,7 +5,7 @@
 
 - :telescope: Finishing up my CE bachelor's at Amirkabir University of Technology
 - :zap: I’m currently learning AI and Machine Learning
-- 
+
 <div id="header" align="center">
  
   <img src="https://media.giphy.com/media/z4cAv0wUBbXLxw6ySb/giphy.gif" width="100"/>
@@ -36,12 +36,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Python"  alt="Python" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/>&nbsp
- 
- 
-
-  
- 
- 
  
 ---
 
